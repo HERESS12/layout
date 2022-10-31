@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Docplanner Group</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <div class="flex-box">
+                    
+                <h2 class="<logo logo1"><a href="#"><img src="https://www.docplanner.com/img/sygnet.png" alt="logo"></a>Docplanner</h2>
+                <h2 class="logo logo2">Group</h2>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Career</a></li>
+                        <li><a href="#">Departements</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="main-header">
+<img src="https://www.docplanner.com/img/sygnet.png" alt="logo">
+</div>
+<h1>Making the healthcare experience more human</h1>
+<p id="para">We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.
+
+    We also help doctors to better manage their practice and build their online reputation. With our integrated end-to-end solution, doctors are able not only to improve their online presence, but also to devote their time to what really matters: their patients. </P>
+<div class="flex box">
+    <div class="box box">
+        <div class="box box1">
+            For patients
+            Find a doctor, book a visit and solve any health-related doubt</div>
+        <div class="box box2">For doctors
+            Save time managing visits and cut no-shows by half
+            
+            Choose country
+            </div>
+        <div class="box box3">For clinics
+            Deliver an exceptional patient experience in your clinic
+            
+            2 to 20 specialists
+             
+            More than 20 specialists
+            </div>
+
+    </div>
+</div>
+    
+   <footer>We are leaders in 13 countries: Poland, Turkey, Spain, Italy, Germany, Czech Republic, Portugal, Mexico, Colombia, Brazil, Argentina, Peru and Chile
+
+    This site uses cookies to deliver services in accordance with this Privacy Policy. You can specify the conditions for storing or accessing cookies on your browser.
+    
+    www.docplanner.com © 2022</footer> 
+</body>
+</html>
